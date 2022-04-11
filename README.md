@@ -1,19 +1,31 @@
-# u_back
+## echarts
 
-## Project setup
-```
-npm install
-```
+ok
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 菜单管理
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ok
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 角色管理 
+
+ok
+
+## 管理员管理
+
+ok
+
+## 商品分类
+
+ok
+
+## 商品规格
+
+ok
+
+## 会员管理
+
+ok
+
+## 轮播图管理
+
+ok
